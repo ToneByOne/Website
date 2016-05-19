@@ -6,4 +6,4 @@
  * Time: 下午3:19
  */
  //人为删除本地文件，恢复命令
-git checkout origin/master file
+git checkout origin/master file (指定文件路径)
