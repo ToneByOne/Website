@@ -46,3 +46,13 @@ http://www.cnblogs.com/kissdodog/p/4174421.html
 16.https://www.centos.bz/2012/01/active-mysql-slow-log-mysqldumpslow/（开启mysql慢查询日志并
 
 使用mysqldumpslow命令查看）
+
+17.http://blog.useasp.net/archive/2013/09/14/enable-mysql-log-function-to-monitor-MySql-live-queries.aspx（MySql启用SQL trace追踪SQL语句的操作）
+
+18.http://www.thinkphp.cn/topic/9461.html（wamp下，如何查看MYSQL执行语句）
+
+19.http://blog.csdn.net/lwprain/article/details/8802379（mysql5.6.10关于慢查询的设置slow-query-log）
+
+20.https://github.com/adamculp/refactoring101（一些案例）
+
+21.http://blog.csdn.net/haoel/article/details/2875（编程修养）
